@@ -1,0 +1,84 @@
+AIDE (les éléments sont présentés dans l'ordre des boutons du jeu) :
+
+
+Béton : Le béton est un élément qui ne subit pas la gravité.
+
+Bloc dirigeable : Les blocs dirigeables sont des blocs non soumis à la gravité et qui peuvent être déplacés grâce aux flèches directionnelles.
+
+Bois : Le bois flambe lorsqu'il est exposé à une trop haute température.
+
+Boue : La boue est juste de la terre mouillée.
+
+Capteur d'air : Le capteur d'air envoie de l'électricité lorsqu'il est en contact avec de l'air.
+
+Capteur de chaleur : Le capteur de chaleur envoie de l'électricité lorsqu'il est exposé à une trop haute température.
+
+Capteur de froid : Le capteur de froid envoie de l'électricité lorsqu'il est exposé à une trop basse température.
+
+Capteur de gaz : Le capteur de gaz envoie de l'électricité lorsqu'il est en contact avec un gaz.
+
+Capteur d'humain : Le capteur d'humain envoie de l'électricité lorsqu'il est en contact avec un humain.
+
+Capteur de liquide : Le capteur de liquide envoie de l'électricité lorqu'il est en contact avec un liquide.
+
+Eau : L'eau permet de transformer la terre en eau ou encore de créer de l'eau toxique au contact du poison.
+
+Electricité : L'électricité ne peut se propager que dans le métal, elle permet d'allumer les lampes, les radiateurs et les réfrigirateurs.
+
+Feu : Le feu s'éteind au bout d'un court moment.
+
+Gaz : Le gaz flotte librement dans l'air et prend feu s'il est exposé à une trop haute température.
+
+Glace : La glace refroidit l'espace autour d'elle.
+
+Graine : Les graines, quand elles sont plantées dans la boue, donnent des arbres.
+
+Humain : Un humain se déplace vers la gauche ou vers la droite et peut monter sur des blocs pas trop haut. L'humain est très sensible à la chaleur.
+
+Lampe : Une lampe s'allume lorsqu'elle est en contact avec de l'électricité et s'éteind peu après.
+
+Laser : Un laser doit être placer à côté d'un bloc de verre pour fonctionner. Lorsque c'est le cas il émettera un rayon qui ne peut traverser que le verre et les pierres d'électricité, d'explosion, de feu et de glace. Lorsqu'il traverse une de ces pierres, un élément relatif à la pierre traversée lui est attribué. Un laser peut être devié en plaçant du verre en travers de sa route.
+
+Lave : La lave réchauffe l'espace autour d'elle.
+
+Métal : Le métal sert à faire circuler l'électricité.
+
+Multi : Un multi va créer autour de lui des répliques du premier élément qui entre en contact avec lui.
+
+Personnage : Le personnage peut être contrôlé grâce aux flèches directionnelles.
+
+Pétrole : Le pétrole s'enflamme lorsqu'il est exposé à une trop haute température.
+
+Pierre : La pierre, une fois chauffée, donne de la lave.
+
+Pierre d'électricité : Lorsqu'un laser traverse cette pierre, il devient chargé en électricité et allimente et la transmet dans les blocs de métal qu'il rencontre.
+
+Pierre d'explosion : Lorsqu'un laser traverse cette pierre, il fera exploser chaque élément sur son chemin si ce n'est pas une pierre d'élément ou du verre.
+
+Pierre de feu : Lorsqu'un laser traverse cette pierre, il devient chaud et réchauffe donc l'endroit où il s'arrête.
+
+Pierre de glace : Lorsqu'un laser traverse cette pierre, il devient froid et refroidi donc l'endroit où il s'arrête.
+
+Pile : Une pile produit régulièrement de l'électricité sur le métal en contact avec elle.
+
+Poison : Le poison peut être dilué dans l'eau et former ainsi de l'eau toxique.
+
+Pont électrique : Dans un pont électrique, l'électricité va tout droit sans se propager dans les fils adjacents. Cela permet de faire se croiser deux fils électriques.
+
+Porte : Lorsque vous créez une porte vous pouvez changer sa taille et sa direction avec les flèches directionnelles, pour annuler sa création faite échap et pour la valider faite entrée. Une porte s'ouvre lorsque sa serrure (carré le plus foncé) est allimenté en électricité, elle se refermera au bout d'un certain temps.
+
+Radiateur : Le radiateur produit de la chaleur lorsqu'il est alimenté en électricité.
+
+Réfrigirateur : Le réfrigirateur produit du froid lorsqu'il est alimenté en électricité.
+
+Sable : Le sable, une fois chauffée, donne du verre.
+
+Terre : La terre donne de la boue lorsqu'elle est humidifiée.
+
+Tnt : La tnt explose et détruit tout lorsqu'elle est exposée à une trop haute température.
+
+Vapeur : La vapeur est juste de l'eau chauffée qui monte vers le ciel.
+
+Verre : Le verre est du sable chauffé.
+
+Vide : Le vide fait disparaître les éléments autour de lui.
